@@ -1,0 +1,67 @@
+
+.input-with-icon {
+    position: relative;
+}
+.input-with-icon input checkbox {
+    padding-left: 32px !important;
+}
+.input-with-icon i {
+    color: #e5e9ec;
+    display: block;
+    font-size: 16px;
+    height: 16px;
+    margin: 15px 2px 4px 10px;
+    position: absolute;
+    text-align: center;
+    width: 16px;
+}
+.input-with-icon.right input {
+    padding-left: 12px !important;
+    padding-right: 33px !important;
+}
+.input-with-icon.right i {
+    float: right;
+    right: 7px;
+}
+.error {
+    color: #f35958;
+    display: block;
+    font-size: 12px;
+    padding-bottom: 5px;
+
+}
+.form-no-horizontal-spacing .error {
+    margin-bottom: 10px;
+}
+input.error {
+    border: 1px solid #f35958 !important;
+}
+.error-control input {
+    border: 1px solid #f35958 !important;
+}
+.error-control textarea {
+    border: 1px solid #f35958 !important;
+}
+.error-control i {
+    color: #f35958;
+}
+.success-control input {
+    border: 1px solid #00a65a !important;
+}
+.success-control textarea {
+    border: 1px solid #00a65a !important;
+}
+.success-control i {
+    color: #00a65a;
+}
+
+.hidden{
+    display: none;
+}
+#contactsuccess{
+    color: #34ad4f;
+    font-size: 18px;text-align: center;
+}
+#contacterror{
+    color: #f35958;font-size: 18px;text-align: center;
+}

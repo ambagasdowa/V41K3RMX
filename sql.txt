@@ -1,0 +1,204 @@
+23 11 2016 07:11:06 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,12
+23 11 2016 07:11:08 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,12
+23 11 2016 07:11:19 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,12
+23 11 2016 07:11:21 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,12
+23 11 2016 07:11:48 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 07:11:49 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 07:11:49 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 07:11:50 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 07:11:30 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 07:11:55 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 07:11:56 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 07:11:56 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 07:11:58 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 07:11:12 SELECT * FROM vw_users_properties   WHERE 1=1  AND   no_baths = 2 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 07:11:33 SELECT * FROM vw_users_properties   WHERE 1=1  AND   no_baths = 3 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 07:11:30 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 07:11:31 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 07:11:36 SELECT * FROM vw_users_properties   WHERE 1=1  AND   no_baths = 2 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:05 SELECT * FROM vw_users_properties   WHERE 1=1  AND   no_baths = 3 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:13 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:15 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:21 SELECT * FROM vw_users_properties   WHERE 1=1  AND   no_baths = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:29 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:32 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:37 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 AND   no_baths = 2 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:23 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:24 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:31 SELECT * FROM vw_users_properties   WHERE 1=1  ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:51 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:52 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:57 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 AND   no_baths = 2 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:55 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:55 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:55 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:56 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:01 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 AND   no_baths = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:31 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:33 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:37 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 AND   no_baths = 2 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:13 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:18 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:20 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:42 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:44 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:52 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1  AND resale_fee BETWEEN 1300 and 2700  ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:26 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:29 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:35 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1  AND resale_fee BETWEEN 975 and 2025  ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:48 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:07 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 AND   no_baths = 2 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:13 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 AND   no_baths = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:50 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 AND   no_baths = 2 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:44 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:46 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:05 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:07 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:15 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 AND   no_baths = 2 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:42 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:44 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:50 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 AND   no_baths = 2 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:57 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 AND   no_baths = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:05 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:10 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1  AND resale_fee BETWEEN 975 and 2025  ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:17 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1  AND resale_fee BETWEEN 1300 and 2700  ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:26 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1  AND resale_fee BETWEEN 1300 and 2700  ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 1,1
+23 11 2016 08:11:40 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:43 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:14 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:16 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:34 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 1,1
+23 11 2016 08:11:42 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 2,1
+23 11 2016 08:11:56 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 3,1
+23 11 2016 08:11:59 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:00 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:02 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:09 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 1,1
+23 11 2016 08:11:15 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 2,1
+23 11 2016 08:11:20 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:23 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:34 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 1,1
+23 11 2016 08:11:56 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 2,1
+23 11 2016 08:11:01 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 AND   no_baths = 2 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:04 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 AND   no_baths = 2 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 1,1
+23 11 2016 08:11:08 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 AND   no_baths = 2 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 2,1
+23 11 2016 08:11:13 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 AND   no_baths = 2 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 3,1
+23 11 2016 08:11:10 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:12 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:45 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:47 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:16 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:18 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:49 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:50 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:19 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:21 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:47 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:49 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:57 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 AND ((city LIKE "%Playa del Carmen%") 		OR (state LIKE "%Playa del Carmen%")		OR (country LIKE "%Playa del Carmen%")) ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:01 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 AND ((city LIKE "%Playa del Carmen%") 		OR (state LIKE "%Playa del Carmen%")		OR (country LIKE "%Playa del Carmen%")) ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 1,1
+23 11 2016 08:11:04 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1 AND ((city LIKE "%Playa del Carmen%") 		OR (state LIKE "%Playa del Carmen%")		OR (country LIKE "%Playa del Carmen%")) ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 2,1
+23 11 2016 08:11:08 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1  AND resale_fee BETWEEN 2275 and 4725  AND ((city LIKE "%Playa del Carmen%") 		OR (state LIKE "%Playa del Carmen%")		OR (country LIKE "%Playa del Carmen%")) ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 0,1
+23 11 2016 08:11:12 SELECT * FROM vw_users_properties   WHERE 1=1 AND buy = 1  AND resale_fee BETWEEN 2275 and 4725  AND ((city LIKE "%Playa del Carmen%") 		OR (state LIKE "%Playa del Carmen%")		OR (country LIKE "%Playa del Carmen%")) ORDER BY membership="Professional" DESC, membership="Select" DESC, membership="Elite" 
+                              DESC, membership="Preferred" DESC, membership="Starter" DESC, member_id DESC LIMIT 1,1

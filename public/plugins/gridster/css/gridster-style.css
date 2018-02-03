@@ -1,0 +1,268 @@
+
+
+article, aside, details, figcaption, figure, footer, header, hgroup, nav, section {
+    display: block;
+}
+[hidden] {
+    display: none;
+}
+ul, ol {
+    list-style: outside none none;
+}
+* {
+    box-sizing: border-box;
+}
+
+
+
+.ducksboard-logo {
+    background-position: right bottom;
+    height: 18px;
+    margin: 0 5px;
+    width: 120px;
+}
+
+
+.i_download {
+    background: #fff none repeat scroll 0 0;
+    color: #333;
+    padding: 1.8em 2.5em;
+}
+.i_download, .i_download::before, .i_download span {
+    display: inline-block;
+    vertical-align: middle;
+}
+.i_download::before {
+    background: rgba(0, 0, 0, 0) url("../img/sprite.png") no-repeat scroll -216px -198px;
+    content: "";
+    height: 50px;
+    margin-right: 15px;
+    width: 50px;
+}
+.i_download:hover {
+    background-color: #004756;
+    color: #fff;
+}
+.i_download:hover::before {
+    background-position: -158px -198px;
+}
+.i_download span {
+    font-size: 2em;
+}
+.claim {
+    font-family: "Rancho",cursive;
+    font-weight: normal;
+}
+[role="header"] .claim {
+    font-size: 2em;
+    font-style: italic;
+    font-weight: normal;
+    margin-top: -20px;
+    padding-bottom: 60px;
+}
+[role="header"] nav li, [role="header"] nav a {
+    display: inline-block;
+}
+[role="header"] nav a {
+    background: #eeeeee none repeat scroll 0 0;
+    color: #666666;
+    font-size: 2em;
+    font-weight: bold;
+    padding: 0.6em 1.3em;
+    text-decoration: none;
+    transition: color 0.3s ease 0s;
+}
+[role="header"] nav a:hover {
+    color: #333;
+}
+[role="header"] nav .active {
+    background-color: #eeeeee;
+}
+[role="header"] nav .active a {
+    color: #333333;
+}
+footer {
+    background: #004756 none repeat scroll 0 0;
+    margin-top: 70px;
+    padding-top: 3.3em;
+    text-align: center;
+}
+footer iframe {
+    margin-top: 40px;
+}
+footer .claim {
+    color: #fff;
+    font-size: 1.6em;
+    font-style: italic;
+    margin-top: -16px;
+}
+footer > p {
+    background: #fff none repeat scroll 0 0;
+    color: #333333;
+    font-size: 1.3em;
+    font-weight: bold;
+    margin-top: 2.6em;
+    padding: 0.8em 0;
+}
+section header, .scoped {
+    margin: 0 38px;
+}
+.ttr {
+    text-align: right;
+}
+section header .m_txt {
+    margin-top: -2.5em;
+    padding: 0 0 25px;
+}
+.heading-xl, .heading-l, .heading-m {
+    color: #333333;
+    padding-bottom: 0.5em;
+    text-shadow: 1px 0 0 #fff;
+}
+.heading-xl {
+    font-size: 3em;
+    padding: 2em 0 1em;
+}
+.heading-l {
+    font-size: 2.6em;
+}
+.heading-m {
+    color: #999999;
+    font-size: 2.2em;
+}
+.heading-m em {
+    color: #666;
+    font-size: 0.8em;
+    font-weight: normal;
+}
+.m_txt {
+    padding: 38px;
+}
+.m_txt p, .m_txt ul, .m_txt ol, .m_txt dl {
+    font-size: 1.6em;
+    line-height: 1.4em;
+    padding-bottom: 2em;
+    text-shadow: 1px 0 0 #fff;
+}
+.m_txt ul li {
+    padding-bottom: 0.2em;
+}
+.m_txt *:last-child:not(a) {
+    padding-bottom: 0;
+}
+.m_txt .gist {
+    font-size: 1.4em;
+    line-height: 1.3em;
+    margin-bottom: 40px;
+    margin-top: -10px;
+}
+.m_txt .heading-xl {
+    padding-top: 1em;
+}
+.m_txt dl {
+    padding-left: 30px;
+    padding-top: 10px;
+}
+.m_txt dt {
+    color: #333;
+    font-weight: bold;
+    padding-bottom: 0.4em;
+}
+.m_txt dt em {
+    color: #666666;
+    font-style: italic;
+    font-weight: normal;
+}
+.m_txt dd {
+    padding-bottom: 1em;
+}
+.m_txt hr {
+    border-top: 1px solid #ccc;
+    margin-bottom: 30px;
+}
+.m_tags {
+    margin-bottom: 30px;
+}
+.m_tags li {
+    padding-bottom: 4px;
+}
+.m_tags li, .m_tags a {
+    display: inline-block;
+}
+.m_tags li {
+    margin-right: 4px;
+}
+.m_tags a {
+    background: #fff none repeat scroll 0 0;
+    color: #666666;
+    font-size: 1.6em;
+    padding: 0.3em 0.6em;
+    text-decoration: none;
+}
+.m_tags a:hover {
+    background-color: #004756;
+    color: #fff;
+}
+.demo {
+    background: #004756 none repeat scroll 0 0;
+    padding: 7.5em 0 5.5em;
+}
+.gridster {
+    margin: 0 auto;
+    width: 960px;
+}
+.gridster .gs-w {
+    background: #fff none repeat scroll 0 0;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+}
+.gridster .player {
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);
+}
+.gridster .gs-w.try {
+    background-image: url("../img/sprite.png");
+    background-position: 37px -169px;
+    background-repeat: no-repeat;
+}
+.gridster .preview-holder {
+    background: rgba(255, 255, 255, 0.2) none repeat scroll 0 0 !important;
+    border: medium none !important;
+    border-radius: 0 !important;
+}
+article, .m_doc_method {
+    background: #fff none repeat scroll 0 0;
+}
+article:not(:last-child), .m_doc_method:not(:last-child) {
+    margin-bottom: 50px;
+}
+.m_doc_method > h3 {
+    background-color: #e5e5e5;
+    color: #333333;
+    font-size: 1.8em;
+    padding: 1.4em 2em;
+}
+.m_doc_method .heading-m {
+    color: #333333;
+}
+#intro {
+    overflow: hidden;
+}
+#intro .i_download {
+    margin-top: 100px;
+}
+#intro > div {
+    float: left;
+    width: 65%;
+}
+#intro {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#intro > div:last-child {
+    float: right;
+    width: 32%;
+}
+.gridster ul > li
+{
+    padding: 0px;
+}

@@ -1,0 +1,40 @@
+.aims
+{
+    background-color: #e88704;
+}
+.ggc
+{
+    background-color: #50ba24;
+}
+.gmc
+{
+    background-color: #17e19c;
+}
+.grc
+{
+    background-color: #748753;
+}
+.l21r
+{
+    background-color: #44a2c4;
+}
+.ppm
+{
+    background-color: #a92541;
+}
+.rms
+{
+    background-color: #66a527;
+}
+
+.chat {
+    background: #f00;
+    height: 30px;
+}
+iframe {
+    display: block;
+    background: #000;
+    border: none;
+    height: calc(100vh - 30px);
+    width: 100%;
+}

@@ -1,0 +1,131 @@
+.intro {
+	position: fixed;
+	z-index: 10;
+	overflow: hidden;
+	width: 100%;
+	height: 100%;
+	background:url(/public/img/bg.jpg) no-repeat center center fixed ;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.container--open .intro {
+	-webkit-transform: translate3d(0, -100%, 0) translate3d(0, 130px, 0);
+	transform: translate3d(0, -100%, 0) translate3d(0, 130px, 0);
+}
+
+/* Fullscreen image */
+
+
+.container--open .intro__image {
+	opacity: 0;
+	-webkit-transform: translate3d(0, 20%, 0);
+	transform: translate3d(0, 20%, 0);
+}
+
+/* Intro content */
+.intro__content {
+	position: absolute;
+	bottom: 0;top: 0;
+	text-align: center;
+	padding: 1.8em;
+	width: 100%;
+	font-size: 1.15em;
+}
+/*
+.intro__title {
+	margin: 0 0 20px;
+	font-weight: 900;
+	font-size: 4em;
+	font-family: "Playfair Display", Georgia, serif;
+	line-height: 1;
+}
+
+.intro__subtitle {
+	display: -webkit-flex;
+	display: flex;
+	-webkit-align-items: center;
+	align-items: center;
+}
+
+.intro__description {
+	margin: 0 auto 0 1em;
+	line-height: 1.2;
+}*/
+
+/* Trigger button with SVG */
+.trigger {
+	-webkit-flex: none;
+	flex: none;
+	outline: none;
+	border: none;
+	background: none;
+}
+
+/* Hide the text */
+.trigger span {
+
+}
+
+.icon rect,
+.icon line {
+	stroke: #338c36;
+	fill:#ffffff;
+	stroke-width: 3px;
+}
+
+.icon {
+	-webkit-transform-origin: 50% 50%;
+	transform-origin: 70% 70%;
+	-webkit-transition: opacity 0.3s, -webkit-transform 0.3s;
+	transition: opacity 0.3s, transform 0.3s;
+	bottom: 3em;
+}
+
+/* Hide grid and show cross when opening */
+.icon--cross,
+.trigger--active .icon--grid {
+	opacity: 0;
+	-webkit-transform: scale3d(0.5, 0.5, 1);
+	transform: scale3d(0.5, 0.5, 1);
+
+}
+
+.trigger--active .icon--cross {
+	opacity: 1;
+	-webkit-transform: scale3d(1, 1, 1);
+	transform: scale3d(1, 1, 1);
+	bottom: 1em;
+}
+
+/* Main content */
+.items-wrap {
+	position: relative;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-wrap: wrap;
+	flex-wrap: wrap;
+	padding: 70px 10px 100px;
+}
+
+.items-wrap::after {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: #2a2e39;
+	content: '';
+	opacity: 1;
+	-webkit-transition: opacity 0.6s;
+	transition: opacity 0.6s;
+	-webkit-transition-timing-function: cubic-bezier(0.7, 0, 0.3, 1);
+	transition-timing-function: cubic-bezier(0.7, 0, 0.3, 1);
+	pointer-events: none;
+}
+
+.container--open .items-wrap::after {
+	opacity: 0;
+}

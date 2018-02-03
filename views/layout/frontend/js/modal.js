@@ -1,0 +1,15 @@
+$("#login").click(function(){
+  $("#user").modal("show");  
+});
+$("#btn-helpdesk").click(function(){
+  $("#helpdesk").modal("show");  
+});
+$("#btn-transfer").click(function(){
+  $("#transfer").modal("show");  
+});
+$("#btn-rr-system").click(function(){
+  $("#rr-system").modal("show");  
+});
+$("#btn-fulfillment").click(function(){
+  $("#fulfillment").modal("show");  
+});
