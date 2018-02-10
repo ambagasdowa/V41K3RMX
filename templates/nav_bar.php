@@ -30,6 +30,7 @@ if( $controlador !== 'checkout'  ) {
                         <li id="shopping_fa" class="" style="display: <?php echo $display;?>;color:#f39c12 !important">
                             <a href="/menu/shopping"><i class="fa fa-shopping-bag fa-2x" style="color:#f39c12 !important"></i></a>
                         </li>
+                        
                         <!--<li class="search"><a href="#"><i class="fa fa-search"></i></a></li>-->
                     <?php
                     }else{
@@ -43,6 +44,9 @@ if( $controlador !== 'checkout'  ) {
 
                         <li id="shopping_fa" class="" style="display: <?php echo $display;?>;color:#f39c12 !important">
                             <a href="#" onclick="startCheckout();"><i class="fa fa-shopping-bag fa-2x" style="color:#f39c12 !important"></i></a>
+                        </li>
+                        <li id="shopping_fa" class="" style="display: <?php echo $display;?>;color:#f39c12 !important">
+                            <a href="/index/cancel_shopping"><i class="fa  fa-times-circle fa-2x" style="color:#f39c12 !important"></i></a>
                         </li>
                     <?php
                     }

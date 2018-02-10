@@ -115,6 +115,7 @@ class menuController extends Controller
         $this->_view->renderizar('shopping');
     }
 
+   
     public function products()
     {
         $this->_view->getPlugins(array('minicart'));
