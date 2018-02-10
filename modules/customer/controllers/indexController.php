@@ -28,8 +28,9 @@ class indexController extends Controller
         ");
 
         $this->_view->Emissions = $this->CO2KG($total_distance[0]['distance_kms']);
-        $this->_view->Orders = $this->countShoppings('order_enterprise',$_SESSION['user_id']);
-        $this->_view->sOrders= $this->countShoppings('order_special',$_SESSION['user_id']);
+        $this->_view->cOrders = $this->countShoppings('order_enterprise',$_SESSION['user_id']);
+        $this->_view->csOrders= $this->countShoppings('order_special',$_SESSION['user_id']);
+
 
         $this->_view->total_distance = $total_distance[0]['distance_kms'];
 
