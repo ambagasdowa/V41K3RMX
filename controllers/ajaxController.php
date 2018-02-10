@@ -181,9 +181,12 @@ class ajaxController extends Controller {
     {
         $enterprise= $_POST['enterprise'];
         $stuff_id = $_POST['stuff_id'];
-
-        $_SESSION['Shopping']['Enterprise'][$enterprise]['stuff'][$stuff_id] = NULL;
-
+        #$_SESSION['Shopping']['Enterprise'][$enterprise]['stuff'][$stuff_id]['how_many'] = 0;
+        $Shopping = $_SESSION;
+        $Shopping['Shopping']['Enterprise'][$enterprise]['stuff'][$stuff_id]['how_many'] = 0;
+        
+        #unset($Shopping['Shopping']['Enterprise'][$enterprise]['stuff'][$stuff_id]);
+        $_SESSION = $Shopping;
         $response = array('orderData'=>$_SESSION['Shopping']);
         echo json_encode($response);
     }

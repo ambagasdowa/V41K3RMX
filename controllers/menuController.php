@@ -86,6 +86,35 @@ class menuController extends Controller
         $this->_view->renderizar('shopping');
     }
 
+    public function delete_stuff($enterprise,$stuff_id)
+    {
+        $Shopping = $_SESSION;
+        unset($Shopping['Shopping']['Enterprise'][$enterprise]['stuff'][$stuff_id]);
+        $_SESSION = $Shopping;
+
+        if(!empty($Shopping))
+        {
+            foreach ($Shopping['Shopping']['Enterprise'] as $e => $enterprise)
+            {
+                foreach ($enterprise as $e_id => $stuff)
+                {
+                    if($e_id !== 'enterprise_data')
+                    {
+                        $s=0;
+                        foreach ($stuff as $s_id => $Stuff)
+                        {
+                            $s++;
+                        }
+                    }
+                }
+            }
+        }
+
+        echo $s;
+
+        $this->_view->renderizar('shopping');
+    }
+
     public function products()
     {
         $this->_view->getPlugins(array('minicart'));

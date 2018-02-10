@@ -5,9 +5,9 @@
  * Date: 21/03/17
  * Time: 11:20 PM
  */
-#$this->pr($_SESSION);
 ?>
-    <section id="pricing" class="pricing lightbg">
+
+<section id="pricing" class="pricing lightbg">
     <div class="container">
         <div class="row">
             <div class="main_pricing roomy-100">
@@ -40,12 +40,13 @@
                                         $subtotal = 0;
                                         foreach ($stuff as $s_id => $Stuff)
                                         {
+                                            #$this->pr($Stuff);
+                                            $s=0;
                                             if (is_int($s_id) && $Stuff['how_many'] !== 0)
                                             {
+                                                $s++;
                                                 ?>
-
-                                                <li >
-
+                                                <li>
                                                     <a href="#" class="photo">
                                                         <img class="cart-thumb" alt=""
                                                              src="/public/uploads/enterprise/stuff/<?php echo $Stuff['stuff_data']['stuff_id'];?>/<?php echo $Stuff['stuff_data']['photo_stuff']; ?>"
@@ -59,7 +60,9 @@
                                                                 class="label label-danger"
                                                             >   <?php echo $Stuff['how_many'].' '; ?>
                                                             </span>
-                                                            <a href="" class="pull-right"><li class="fa fa-trash-o"></li></a>
+                                                            <a href="/menu/delete_stuff/<?php echo $Stuff['stuff_data']['enterprise_id'];?>/<?php echo $Stuff['stuff_data']['stuff_id'];?>"class="pull-right" style="padding-left:5px;">
+                                                                <li class="fa fa-trash-o"></li>
+                                                            </a>
 
                                                         </div>
 
@@ -113,9 +116,9 @@
                                 }
                                 ?>
 
-
-
-
+                            <?php
+                            if($s>0){
+                            ?>
                             <div class="pricing_body bg-white padding-20">
                                 <div class="col-md-12 col-sm-12 col-xs-12">
                                     <h6>Comments</h6>
@@ -146,17 +149,43 @@
                                            value="<?php echo $subtotal; ?>">
                                 </div>
                             </div>
+                            <?php
+                            }else{
+                                ?>
+                                <hr>
+                                <div class="callout callout-warning">
+                                    <div class="text-center"><i class="fa fa-bicycle fa-4x text-white"></i></div>
+                                    <h6 class="text-white text-center">no items</h6>
+                                    
+                                </div>
+                                
+                                <div class="row text-center">
+                                    <a href="/menu/showMenu/<?php echo $enterprise['enterprise_data']['enterprise_id'];?>" class="btn btn-primary">
+                                        <span class="badge " style=" color: #f39c12 !important;">
+                                        0</span>
+                                            <i class="fa fa-shopping-cart"></i>
+                                    </a>
+                                    </div>
+                                    <br/>
+                            <?php
+                            }
+                            ?>
                         </div>
                     </div><!-- End off col-md-4 -->
                 <?php
                         $gtotal += $subtotal;
                     }
+                }else{
+                    ?>
+                    <hr>
+                    <div class="callout callout-warning">
+                        <div class="text-center"><i class="fa fa-bicycle fa-4x text-white"></i></div>
+                        <h6 class="text-white text-center">Cart doesn't have items</h6>
+                    </div>
+                    <?php
                 }
                 echo '</form>';
                 ?>
-
-
-
             </div>
         </div><!--End off row-->
     </div><!--End off container -->
