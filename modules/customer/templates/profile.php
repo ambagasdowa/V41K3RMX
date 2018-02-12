@@ -10,7 +10,7 @@
         <div class="row">
             <div class="col-sm-6 border-right">
                 <div class="description-block">
-                    <h5 class="description-header">3</h5>
+                    <h5 class="description-header"><?php echo $this->cOrders['count'];?></h5>
                     <span class="description-text">ORDERS</span>
                 </div>
                 <!-- /.description-block -->
@@ -20,7 +20,7 @@
             <!-- /.col -->
             <div class="col-sm-6">
                 <div class="description-block">
-                    <h5 class="description-header">3</h5>
+                    <h5 class="description-header"><?php echo $this->csOrders['count'];?></h5>
                     <span class="description-text">SPECIAL ORDERS</span>
                 </div>
                 <!-- /.description-block -->
@@ -33,7 +33,7 @@
 </div>
 <div class="small-box bg-yellow">
     <div class="inner">
-        <h3 style="color: white;">6</h3>
+        <h3 style="color: white;"><?php echo $this->cOrders['count']+$this->csOrders['count'];?></h3>
 
         <p>Orders</p>
     </div>

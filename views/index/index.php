@@ -162,9 +162,9 @@
 </section>
 <!--Enterprise Section-->
 
-<section class="skill roomy-100">
-    <div class="row">
-        <div class="about_bottom_content" style="padding-left: 30px;">
+<section class="skill roomy-100" style="background-color:  #d8ecdb ">
+    <div class="row" >
+    <div class="about_bottom_content" style="padding-left: 30px;">
             <div class="col-md-4">
                 <div class="about_bottom_item m-top-20">
                     <div class="ab_head">

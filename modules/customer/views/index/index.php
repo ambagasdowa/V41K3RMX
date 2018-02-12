@@ -48,7 +48,7 @@
 
                                 <div class="info-box-content">
                                     <span class="info-box-text">Kms Traveled</span>
-                                    <span class="info-box-number"><?php echo ($this->total_distance>0) ?$this->total_distance : 0;?></span>
+                                    <span class="info-box-number"><?php echo ($this->total_distance>0) ? $this->total_distance : 0;?></span>
 
                                     <div class="progress">
                                         <div class="progress-bar" style="width: <?php echo $this->total_distance;?>%"></div>
@@ -68,8 +68,6 @@
                     </div>
                     <div class="col-md-3">
                         <?php
-                        $this->pr($this->Orders);
-                        $this->pr($this->sOrders);
                         require_once $params['templates'][1];
                         ?>
                     </div>

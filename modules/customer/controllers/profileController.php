@@ -19,6 +19,9 @@ class profileController extends Controller
 
         $Customer = $this->model->select_row('system_users','*',$conditions);
 
+        $this->_view->cOrders = $this->countShoppings('order_enterprise',$_SESSION['user_id']);
+        $this->_view->csOrders= $this->countShoppings('order_special',$_SESSION['user_id']);
+
         $this->_view->function = 'getProfile';
         $this->_view->Customer = $Customer;
         $this->_view->function = 'getProfile';

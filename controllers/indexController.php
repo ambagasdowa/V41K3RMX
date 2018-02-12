@@ -35,7 +35,6 @@ class indexController extends Controller
             }
         }else{
             Session::destroy('welcomeBack');
-
         }
 
 
@@ -75,6 +74,12 @@ class indexController extends Controller
 
     public function footer(){
         $this->printR($_POST);
+    }
+
+    public function cancel_shopping()
+    {
+        Session::destroy('Shopping');
+        $this->index();
     }
 
 
